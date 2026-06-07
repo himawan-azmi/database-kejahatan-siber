@@ -6,4 +6,23 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/himawanTIF/database-kejahatan-siber?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/himawanTIF/database-kejahatan-siber?style=for-the-badge)
 >
-> Repositori untuk kejahatan-kejahatan yang terjadi secara digital di lingkungan siber
+>
+# Database Kejahatan Siber
+
+Platform edukasi dan referensi untuk dokumentasi:
+
+- Malware
+- CVE
+- Kelompok Ancaman (APT)
+- Artikel Analisis Siber
+
+## Tujuan
+
+Menyediakan basis data kejahatan siber yang dapat digunakan untuk pembelajaran, penelitian, dan analisis keamanan informasi.
+
+## Fitur MVP
+
+- Daftar Malware
+- Detail Malware
+- Daftar CVE
+- Artikel Analisis
