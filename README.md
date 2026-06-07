@@ -1,10 +1,10 @@
 # database-kejahatan-siber
 >
-![GitHub last commit](https://img.shields.io/github/last-commit/himawan-azmi/database-kejahatan-siber?display_timestamp=author&style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/himawanTIF/database-kejahatan-siber?style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/himawanTIF/database-kejahatan-siber?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/himawanTIF/database-kejahatan-siber?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/himawanTIF/database-kejahatan-siber?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/himawan-azmi/database-kejahatan-siber?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/himawan-azmi/database-kejahatan-siber?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/himawan-azmi/database-kejahatan-siber?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/himawan-azmi/database-kejahatan-siber?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/himawan-azmi/database-kejahatan-siber?style=for-the-badge)
 >
 >
 # Database Kejahatan Siber
