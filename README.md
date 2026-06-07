@@ -1,4 +1,4 @@
-# database-kejahatan-siber
+# Database Kejahatan Siber
 >
 ![GitHub last commit](https://img.shields.io/github/last-commit/himawan-azmi/database-kejahatan-siber?style=for-the-badge)
 ![GitHub License](https://img.shields.io/github/license/himawan-azmi/database-kejahatan-siber?style=for-the-badge)
@@ -7,8 +7,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/himawan-azmi/database-kejahatan-siber?style=for-the-badge)
 >
 >
-# Database Kejahatan Siber
-
 Platform edukasi dan referensi untuk dokumentasi:
 
 - Malware
