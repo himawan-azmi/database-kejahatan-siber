@@ -59,13 +59,13 @@ def search_malware(
 
     for malware in malware_data:
 
-        if type and malware["type"] != type:
+        if type and malware["type"].lower() != type.lower():
             continue
 
-        if platform and malware["platform"] != platform:
+        if platform and malware["platform"].lower() != platform.lower():
             continue
 
-        if severity and malware["severity"] != severity:
+        if severity and malware["severity"].lower() != severity.lower():
             continue
 
         result.append(malware)
