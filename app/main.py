@@ -8,19 +8,22 @@ malware_data = [
         "id": 1,
         "name": "Koi Stealer",
         "type": "Infostealer",
-        "platform": "Windows"
+        "platform": "Windows",
+        "severity": "High"
     },
     {
         "id": 2,
         "name": "Emotet",
         "type": "Trojan",
-        "platform": "Windows"
+        "platform": "Windows",
+        "severity": "High"
     },
     {
         "id": 3,
         "name": "Mirai",
         "type": "Botnet",
-        "platform": "Linux"
+        "platform": "Linux",
+        "severity": "High"
     }    
 ]
 
@@ -49,16 +52,20 @@ def get_malware_by_id(malware_id: int):
 @app.get("/search")
 def search_malware(
     type: str = Query(None),
-    platform: str = Query(None)
+    platform: str = Query(None),
+    severity: str = Query(None)
 ):
     result = []
 
     for malware in malware_data:
 
-        if type and malware["type"] !=type:
+        if type and malware["type"] != type:
             continue
 
-        if platform and malware["platform"] !=platform:
+        if platform and malware["platform"] != platform:
+            continue
+
+        if severity and malware["severity"] != severity:
             continue
 
         result.append(malware)
